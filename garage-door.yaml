@@ -35,9 +35,9 @@ api:
 
 ota:
 
-dashboard_import:
-  package_import_url: github://wernerhp/esphome.garage_door/garage_door.yaml@latest
-  import_full_config: false
+# dashboard_import:
+#   package_import_url: github://wernerhp/esphome.garage_door/garage_door.yaml@main
+#   import_full_config: false
 
 wifi:
   # Enable fallback hotspot (captive portal) in case wifi connection fails
